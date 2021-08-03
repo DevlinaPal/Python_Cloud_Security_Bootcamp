@@ -18,6 +18,7 @@ aws s3 ls s3://vector-maps-e457472599
 
 # ATTACHED SCREENSHOTS:
 SCREENSHOT 1: brda-vector-maps_access_denied_s3_bucket.png
+
 SCREENSHOT 2: vector-maps-e457472599_public_s3_bucket.png
 
 # IMPACT:
